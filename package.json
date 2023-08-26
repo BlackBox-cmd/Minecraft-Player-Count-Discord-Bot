@@ -1,12 +1,12 @@
 {
-	"author": "Spencer Torres",
+	"author": "BlackBox-cmd",
 	"license": "MIT",
 	"scripts": {
 		"start": "node index.js"
 	},
 	"dependencies": {
-		"axios": "^0.17.1",
-		"discord.js": "^11.3.0",
-		"dotenv": "^5.0.0"
+		"axios": "^1.4.0",
+		"discord.js": "^14.13.0",
+		"dotenv": "^16.3.1"
 	}
 }
